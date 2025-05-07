@@ -8,7 +8,8 @@ A Siamese network combining ResNet, SE (Squeeze-and-Excitation), and CBAM (Convo
 
 Click the link below to try it directly on Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/evan6007/ResNet_SE_CBAM_KNN/blob/main/ResNet_SE_CBAM_KNN_demo.ipynb](https://colab.research.google.com/drive/1kLoaVsBMfykAern0G3JncQDnrsTc3D6I?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kLoaVsBMfykAern0G3JncQDnrsTc3D6I?usp=sharing)
+
 
 ---
 
