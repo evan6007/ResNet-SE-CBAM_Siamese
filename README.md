@@ -34,11 +34,12 @@ Click the link below to try it directly on Google Colab:
 wget https://huggingface.co/evan6007/ResNet_SE_CBAM_KNN/resolve/main/R_image.zip -O R_image.zip
 wget https://huggingface.co/evan6007/ResNet_SE_CBAM_KNN/resolve/main/resnet_se_cbam_40_20.pth -O resnet_se_cbam_40_20.pth
 unzip R_image.zip
+```
 
-
+---
 
 ## 📖 Reference
 
-"If you use this repository in your research, please cite the following paper:  
-Chao-Hsiang Hsiao, Hoi Lee, Min-Jie Hsu, and Yin-Tien Wang. FPGA-Based License Plate Recognition Using Convolutional Neural Networks. *Sensors*, 25(13):4233, 2025. Available at: https://www.mdpi.com/1424-8220/25/13/4233"
-
+If you use this repository in your research, please cite the following paper:  
+Chao-Hsiang Hsiao, Hoi Lee, Min-Jie Hsu, and Yin-Tien Wang. FPGA-Based License Plate Recognition Using Convolutional Neural Networks. *Sensors*, 25(13):4233, 2025.
+Available at: https://www.mdpi.com/1424-8220/25/13/4233
