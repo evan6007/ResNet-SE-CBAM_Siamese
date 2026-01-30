@@ -37,9 +37,23 @@ unzip R_image.zip
 ```
 
 ---
-
 ## 📖 Reference
+[https://www.mdpi.com/1424-8220/25/13/4233](https://www.mdpi.com/1424-8220/25/13/4233)<br>
+ResNet-SE-CBAM Siamese Networks for Few-Shot and Imbalanced PCB Defect Classification<br>
+Chao-Hsiang Hsiao, Huan-Che Su, Yin-Tien Wang, Min-Jie Hsu, and Chih-Chiang Hsu > Sensors 2025, 25(13), 4233; DOI: 10.3390/s25134233
 
-If you use this repository in your research, please cite the following paper:  
-Chao-Hsiang Hsiao, Hoi Lee, Min-Jie Hsu, and Yin-Tien Wang. FPGA-Based License Plate Recognition Using Convolutional Neural Networks. *Sensors*, 25(13):4233, 2025.
-Available at: https://www.mdpi.com/1424-8220/25/13/4233
+<details>
+<summary><b>📋citation (BibTeX) </b></summary>
+
+```bibtex
+@Article{sensors25134233,
+AUTHOR = {Hsiao, Chao-Hsiang and Su, Huan-Che and Wang, Yin-Tien and Hsu, Min-Jie and Hsu, Chih-Chiang},
+TITLE = {ResNet-SE-CBAM Siamese Networks for Few-Shot and Imbalanced PCB Defect Classification},
+JOURNAL = {Sensors},
+VOLUME = {25},
+YEAR = {2025},
+NUMBER = {13},
+ARTICLE-NUMBER = {4233},
+URL = {[https://www.mdpi.com/1424-8220/25/13/4233](https://www.mdpi.com/1424-8220/25/13/4233)},
+DOI = {10.3390/s25134233}
+}
